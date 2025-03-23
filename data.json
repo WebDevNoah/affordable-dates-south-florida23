@@ -1,0 +1,74 @@
+{
+    "dates": [
+        {
+            "name": "Beach Picnic at South Pointe Park",
+            "description": "Enjoy a romantic beach picnic at South Pointe Park in South Florida. This scenic park offers stunning ocean views, a relaxing atmosphere, and plenty of open space for couples to unwind. Bring your own food or grab takeout from nearby cafes. The park also features walking trails and a pier, perfect for a leisurely stroll before or after your meal.",
+            "price": "$20-$30",
+            "link": "https://www.miamibeachfl.gov/parks/south-pointe-park/",
+            "image": "https://www.miamibeachfl.gov/wp-content/uploads/2024/03/Parks-Gallery-3-SouthPointePark.jpeg"
+        },
+        {
+            "name": "Wynwood Walls Art Walk",
+            "description": "Explore the vibrant street art of the famous Wynwood Walls in Miami, South Florida. This free outdoor museum showcases breathtaking murals created by artists from around the world. It's a perfect affordable date idea for couples who love art, culture, and photography. The surrounding area also offers trendy bars, coffee shops, and restaurants to extend your outing.",
+            "price": "Free",
+            "link": "https://thewynwoodwalls.com/",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Wynwood_Walls_%2810106520595%29.jpg"
+        },
+        {
+            "name": "Kayaking at Oleta River State Park",
+            "description": "For adventurous couples, Oleta River State Park in South Florida is a fantastic affordable date option. Rent a kayak and paddle through peaceful mangrove trails while enjoying nature and wildlife sightings. This relaxing outdoor activity is great for bonding and offers a refreshing escape from the city.",
+            "price": "$30-$50",
+            "link": "https://www.floridastateparks.org/OletaRiver",
+            "image": "https://www.floridastateparks.org/sites/default/files/styles/card/public/media/image/TOCOletaRiver-6932_ScOTuS1e_vc6QDjBmdbY82s18q0ABlZBh_cmyk_l.jpg?itok=s6ieRgwO"
+        },
+        {
+            "name": "Fairchild Tropical Botanic Garden",
+            "description": "Take a romantic walk through the stunning Fairchild Tropical Botanic Garden, one of South Florida’s most beautiful green spaces. The garden features lush tropical plants, butterfly exhibits, and serene lakes. It’s a perfect date idea for nature-loving couples looking for a peaceful and affordable escape.",
+            "price": "$20 per person",
+            "link": "https://www.fairchildgarden.org/",
+            "image": "https://fairchildgarden.org/wp-content/uploads/2022/01/Bird-Walks-10-scaled.jpeg"
+        },
+        {
+            "name": "Movies at Rooftop Cinema Club",
+            "description": "Enjoy a unique movie experience at the Rooftop Cinema Club in Miami, South Florida. Watch classic and new films under the stars in a cozy rooftop setting. This affordable date idea offers a romantic ambiance with comfortable seating and great skyline views, perfect for couples who love movies.",
+            "price": "$18-$25 per person",
+            "link": "https://rooftopcinemaclub.com/",
+            "image": "https://rooftopcinemaclub.com/wp-content/uploads/sites/2/2022/02/SouthBeach_Header_1920x1080-2.jpg"
+        },
+        {
+            "name": "Sunset Cruise in Fort Lauderdale",
+            "description": "Take in breathtaking views on an affordable sunset cruise along the waterways of Fort Lauderdale. This relaxing date idea offers couples a chance to enjoy the scenic coastline while unwinding with a peaceful boat ride. Some cruises even provide drinks and live music, making it a memorable experience.",
+            "price": "$25-$40 per person",
+            "link": "https://www.fortlauderdalesightseeingcruise.com/",
+            "image": "https://fortlauderdalefishing.com/wp-content/uploads/2019/11/Sunset-Cruise-Fort-Lauderdale-Tours.jpg"
+        },
+        {
+            "name": "Stargazing at Bill Baggs Cape Florida State Park",
+            "description": "Escape the city lights and enjoy a romantic stargazing experience at Bill Baggs Cape Florida State Park. This hidden gem in South Florida offers quiet beaches and stunning nighttime skies, perfect for couples looking for a peaceful and intimate date. Bring a blanket and relax under the stars for an unforgettable night.",
+            "price": "$8 per vehicle",
+            "link": "https://www.floridastateparks.org/parks-and-trails/bill-baggs-cape-florida-state-park",
+            "image": "https://www.floridastateparks.org/sites/default/files/styles/card/public/media/image/Meteors%20and%20Fireflies%20over%20the%20Prairie%20hero.png?itok=82Sz3sgf"
+        },
+        {
+            "name": "Live Jazz at The Corner Bar",
+            "description": "For a cozy and romantic night out, visit The Corner Bar in downtown Miami for live jazz music. This intimate venue offers a relaxing atmosphere, making it a perfect date spot for couples who enjoy music and craft cocktails. It’s an affordable option for a laid-back evening filled with great vibes.",
+            "price": "Cost of drinks",
+            "link": "https://www.thecornermiami.com/",
+            "image": "https://images.squarespace-cdn.com/content/v1/674116611d4ac93935b2c56e/1740884163830-YI6T6WHKSBO3JK2N1TUU/Screen+Shot+2025-03-01+at+9.55.43+PM.png?format=300w"
+        },
+        {
+            "name": "Snorkeling at Lauderdale-By-The-Sea",
+            "description": "Experience the beauty of South Florida’s underwater world by snorkeling at Lauderdale-By-The-Sea. This affordable date activity is perfect for adventurous couples who love the ocean. Swim among colorful fish and coral reefs just a short distance from the shore, making it a convenient and memorable outing.",
+            "price": "Free (bring your own gear) or rental costs",
+            "link": "https://www.discoverlbts.com/",
+            "image": "https://www.discoverlbts.com/wp-content/uploads/2021/08/staghorn-coral-01.jpg"
+        },
+        {
+            "name": "Sunrise Yoga on the Beach",
+            "description": "Start your day with a relaxing and romantic sunrise yoga session on one of South Florida’s beautiful beaches. Many local instructors offer affordable or donation-based classes right on the sand. This is a refreshing way to connect with your partner while enjoying the peaceful morning atmosphere.",
+            "price": "Free or donation-based",
+            "link": "https://solyogaflorida.com//",
+            "image": "https://www.isaacfarintherapy.com/static/sitefiles/images/yoga_1.jpg"
+        }
+    ]
+}

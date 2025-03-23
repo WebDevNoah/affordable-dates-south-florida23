@@ -1,0 +1,56 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #464343;
+    color: #1f1313;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgb(255, 18, 18);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 20px;
+}
+
+#searchBar {
+    width: 80%;
+    max-width: 400px;
+    padding: 10px;
+    margin: 20px auto;
+    display: block;
+    border: 2px solid lightorange;
+    border-radius: 5px;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+div.date-card {
+    background: rgb(248, 247, 247);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(255, 254, 254, 0.2);
+    padding: 15px;
+    width: 300px;
+    text-align: center;
+}
+
+.date-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}
